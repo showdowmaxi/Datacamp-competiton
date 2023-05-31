@@ -1,4 +1,4 @@
 # Datacamp-competiton
 
-This is the folder for hands-on data analysis projects have done in Datacamp competition.
+This is the folder for hands-on data analysis projects.
 Projects will mainly use Python, R or SQL to get insights of data based on questions.
